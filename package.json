@@ -1,0 +1,14 @@
+{
+  "name": "palindromic-all",
+  "version": "1.0.2",
+  "description": "search all english dictionary for palindromic",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "palindromic"
+  ],
+  "author": "kailai",
+  "license": "ISC"
+}
